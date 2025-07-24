@@ -69,7 +69,8 @@ GROQ_API_KEY = "your_api_key_here"
 
 ## 📸 Preview
 
-![NOVA UI Preview](assets/preview.gif)
+**🖼️ Screenshot:**
+![NOVA UI Screenshot](assets/preview.png)
 
 ---
 
